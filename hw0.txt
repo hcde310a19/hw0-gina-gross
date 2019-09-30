@@ -1,3 +1,16 @@
 # Description of your program (part 7)
 
+First, you have to import the document file into your program.
+Next, you have to establish a scanner element to be able to parse your document.
+Create a mutable integer variable to represent your word count, and establish the variable at 0.
+Write a function that follows the logic of: "While there is a next word in the document, move the scanner to the next word and increase the word count variable by 1."
+The function will cycle through the document until there are no words left.
+By the time the function completes, the counter variable will equal the number of words in the document.
+
 # Reflection on writing your program (part 8)
+
+It was actually a little hard for me. I know how to code, but I haven't done it in quite a while. I've been
+thinking in a much more design-oriented way for the past year or so because of my coursework, so going back
+to the logic and procedural thinking of code requires my brain to switch gears a bit. I'm just a little out
+of practice (plus I've never done code in Python), but I'm looking forward to getting a refresher and being
+more proficient at the end of the quarter.
